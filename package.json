@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@rimiti/hl7-object-parser": "^2.9.0"
+  }
+}
